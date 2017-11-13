@@ -1,0 +1,5 @@
+{
+  "env": "edge",
+  "director_name": "gcp-bosh",
+  "ca_common_name": "*.cf.security.cf-app.com"
+}

@@ -1,0 +1,5 @@
+{
+  "env": "1-6-x",
+  "director_name": "gcp-bosh-1-6-x",
+  "ca_common_name": "*.cf-1-6-x.security.cf-app.com"
+}
